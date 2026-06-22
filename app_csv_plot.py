@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 FILE_CSV = "du_lieu_ban_hang.csv"
-FILE_ANH = "bieu_do_ban_hang.png"
+FILE_ANH = "bieu_do_ban_hang_heheh.png"
 
 
 def doc_du_lieu_csv():
