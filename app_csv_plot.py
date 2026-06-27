@@ -11,6 +11,9 @@ FILE_ANH = "bieu_do_ban_hang_heheh.png"
 def doc_du_lieu_csv():
     days = []
     sales = []
+    #haifapof
+
+    #afhaihf
 
     with open(FILE_CSV, mode="r", encoding="utf-8", newline="") as file:
         reader = csv.reader(file)
